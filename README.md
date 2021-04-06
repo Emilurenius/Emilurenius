@@ -12,6 +12,7 @@
   Mail: emilsen68@gmail.com
  
 - Current main project:
+
 I am currently working on some projects here and there on my own. The one I am working the most on is this one: https://github.com/Emilurenius/RGB-controller
 That projects is definately my most ambitious so far.
 I am currently working on the project alone, 
